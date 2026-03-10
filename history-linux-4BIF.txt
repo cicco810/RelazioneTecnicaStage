@@ -1,0 +1,422 @@
+cd Users/user
+ls
+cd Desktop/
+ls
+cd es1s/
+ls
+python esswitch.py 
+python3 esswitch.py 
+pip install pyinstaller
+lsb_release  a
+lsb_release  -a
+pipx install pyinstaller
+sudo apt update
+sudo apt install pyinstaller
+python3 esswitch.py 
+sudo apt install pipx -y
+pipx install getch
+
+pip install pyinstaller
+sudo apt install python3-pyinstaller
+sudo apt cache search pyinstaller
+sudo apt-cache search pyinstaller
+sudo apt install python3-command-runner 
+python3 esswitch.py 
+ssh-keygen
+ls
+echo "# convTempCF" >> README.md
+git init
+git add README.md
+git status
+git add esswitch.py 
+git add make_exe.bat 
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cicco810/convTempCF.git
+git push -u origin main
+cd 
+ls
+cd .ssh/
+ls
+ll
+rm id_rsa*
+ls
+ln -svf ciro id_rsa
+bash
+exit
+cd /mnt/c/Users/user/Desktop/es1
+ls
+cd ..
+ls
+cd es1s/
+l
+ls
+git push
+git push --set-upstream origin main
+ln -sv /mnt/c/Users/user/Desktop/es1s/ stage
+ls
+cd stage
+ls
+git push --set-upstream origin main
+ssh-agent 
+ssh-add ciro 
+cd 
+ssh-add .ssh/id_rsa 
+ssh-add .ssh/ciro
+sudo ssh-add .ssh/ciro
+ssh-agent
+ssh-add -L
+ssh-add -l
+c .ssh/
+ls
+cd .ssh/
+ls
+ll
+cd ..
+cd stage
+ls
+history |grep ssh
+ssh-add /home/user_stage/.ssh/id_rsa 
+eval $(ssh-agent -s)
+ssh-add /home/user_stage/.ssh/id_rsa 
+cd /home/
+ls
+cd user_stage/
+ls
+cd .ssh/
+ls
+ll
+chmod 600 ciro
+
+ssh-add /home/user_stage/.ssh/id_rsa 
+cd 
+cd stage
+ls
+git push --set-upstream origin main
+ssh-add -l
+git push --set-upstream origin main
+ssh-agent -l
+ssh-add -l
+eval $(ssh-agent -s)
+cd stage
+ls
+git push
+git remote  show origin 
+cd .git
+ls
+vim config 
+cd ..
+git push
+cd 
+cd .ssh/
+ls
+ll
+rm id_ed25519*
+ls
+cd ..
+cd stage
+git push
+git push --set-upstream origin main
+exit
+cd stage
+ls
+git push --set-upstream origin main
+cd 
+cd .ssh/
+ls
+vim config 
+cd -
+git push --set-upstream origin main
+cd stage
+git push --set-upstream origin main
+history
+history |grep -i matteo
+git config --global user.email "carola.ciro7@gmail.com"
+git config --global user.name "Ciro"
+git status
+git restore esswitch.py 
+git status
+python3 esswitch.py 
+python3 eslin.py 
+cd..
+python3 eslin.py 
+try:
+python3 eslin.py 
+ls
+python3 eslin.py 
+python3 esswitch.py 
+git status
+python3 eslin.py 
+git status
+git add eslin.py 
+git status
+git commit -m creazione file cross-platform
+git commit -a  -m creazione file cross-platform
+git commit -a  -m "creazione file cross-platform"
+git push
+git pull
+cat README.md 
+cd stage
+python3 eslin.py 
+dir
+ls
+python3 eslin.py 
+git status
+git add
+git add eslin.py 
+git commit -m continuo file crossplatform
+git commit -m "continuo file crossplatform"
+git push
+python3 eslin.py 
+git add eslin.py 
+git commit -m  "fine file crossplatform"
+git push
+sudo apt update
+sudo apt install python3-pip python3-dev
+pip install pyinstaller
+sudo apt i
+sudo apt update
+sudo apt install pipx
+pipx ensurepath
+pipx install pyinstaller
+python -m pyinstaller --onefile eslin.py
+python3 -m pyinstaller --onefile eslin.py
+python3 -m PyInstaller --onefile eslin.py
+pyinstaller --onefile eslin.py
+eslin
+cd dist
+chmod +x eslin
+./eslin
+history 
+cd 
+ln -s /mnt/c/inetpub/wwwroot/ mensa
+cd mensa
+git init
+git status
+echo "# sitoMensa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main 
+git remote add origin git@github.com:cicco810/sitoMensa.git
+git push -u origin main 
+git status
+git add Default.aspx 
+git status
+git push
+history 
+git commit -m "aggiunto file mensa"
+git push
+git status
+cd mensa
+git log --oneline 
+git status
+git diff
+git commit -am "corretto errori ortografia"
+git push
+git log --oneline
+git checkout 76ba51a
+git log
+git log --oneline
+git status
+git checkout main 
+git status 
+git log --onefile
+gitk --all
+gitk --all &
+history 
+history |grep gitk
+cal
+cald
+sudo apt-cache searc calendar
+sudo apt-cache search calendar
+sudo apt-cache calendar
+sudo apt install cal
+sudo apt install ncal
+cal
+cal 2026
+cal feb 2026
+cal feb 1
+cal feb -729
+man cal
+git diff
+git status 
+git commit -am "aggiunto linea gialla colore fimer e seperatori modificati con spazio"
+git push 
+git commit -am "altre correzioni ortografiche"
+git push 
+git commit -am "altre ancora correzioni ortografiche"
+git push 
+sudo apt install meld
+gitk --all &
+git difftool HEAD ... originale Default.aspx
+git difftool HEAD originale 
+git difftool HEAD...originale 
+git difftool HEAD originale 
+git d
+git commit -am "aggiunta emoji"
+git push 
+git checkout start 
+sudo apt install tidy
+history 
+git checkout main 
+git status
+git checkout main 
+cd 
+ln -s /mnt/c/Users/user/Desktop desktop 
+cd desktop
+ls
+tidy Ristora_Web_Info.mhtml
+tidy Ristora_Web_Info_originale.mhtml 
+sudo apt install openssh-server 
+sudo apt install docker
+sudo snap install docker
+docker 
+docker ps
+sudo snap install docker-composer
+docker composer -v
+history |grep mnt
+sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0
+cd .
+cd .ssh/
+ls
+cp ciro.pub /mnt/public/.
+sudo cp ciro.pub /mnt/public/.
+sudo systemctl start ssh.service 
+cd
+cd mensa
+
+git commit -am "v.Beta"
+git push
+git commit -am "v.Beta2"
+git push
+gitk --all
+git commit -am "v.diProduzione(tolto il commento alla parte di asp)"
+git push
+cp Default.aspx /mnt/public/.
+sudo cp Default.aspx /mnt/public/.
+~~cd
+cd
+ls 
+mkdir src
+cd src
+
+cd web
+ls
+git
+git checkout
+git checkout origin/docker-env 
+git switch -c stage
+gitk
+make config-doacker
+make config-docker 
+make start
+docker composer build
+docker compose build
+docker composer 
+sudo snap install docker-composer
+sudo snap install docker
+docker-compose build
+make start
+sudo apt install docker-compose
+docker composer
+sudo apt install docker-compose
+docker composer -V
+docker composer -v
+docker compose -v
+docker compose version
+sudo apt update && sudo apt uprade -y
+for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
+sudo apt-get update
+sudo apt-get install ca-certificates curl gnupg
+sudo install -m 0755 -d /etc/apt/keyrings
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+sudo chmod a+r /etc/apt/keyrings/docker.gpg
+echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo docker run hello-world
+docker compose version
+docker system prune
+docker compose build 
+mkdir -p ~/.docker/cli-plugins
+ARCH=$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/')
+VERSION=$(curl -s https://api.github.com/repos/docker/buildx/releases/latest | grep -Po '"tag_name": "\K.*?(?=")')
+curl -L "https://github.com/docker/buildx/releases/download/${VERSION}/buildx-${VERSION}.linux-${ARCH}" -o ~/.docker/cli-plugins/docker-buildx
+chmod +x ~/.docker/cli-plugins/docker-buildx
+docker buildx version
+docker compose version
+docker buildx version
+docker compose build 
+docker buildx use default
+docker compose build
+make start
+make test
+make db 
+cd src
+cd web/
+cd db/
+cd ddl/
+ls
+cat alter
+cat alter*
+ll
+mv alter.family.sql.txt alter.family.sql
+ll
+git status
+git add alter.family.sql 
+cd ../../docker/mysql/init/
+ls
+ln -s ../../../db/ddl/alter.family.sql 06-alter.family.sql
+git status
+git add 06-alter.family.sql 
+git status
+git commit -am "Introdotto alias per le famiglie"
+cd ../..
+cd ..
+make test
+git status
+make test
+make db
+cd src
+cd web
+make shell 
+cd src/web/
+git status
+git restore db/setup/view.v_firmware_shared.sql 
+gitk --al
+gitk --all
+make stop
+docker composer build
+docker compose build
+docker compose up -d
+docker stop
+make stop
+docker compose build --cache
+docker compose build --no-cache
+make start
+make test
+git status
+ls -al
+git status
+git restore db/setup/view.v_datasheet.sql
+git status
+cd view/
+git blame add_package.php
+cd web
+cd src/web/
+make start
+git status
+rm db/ddl/alter.family.sql.txt 
+git status
+git commit -m "Aggiunta alias al nome del pacchetto della famiglia" view/add_package.php 
+git push
+cd
+ip a
+ssh polaris 
+ssh-copy-id -f root@10.21.37.87
+ssh-copy-id root@10.21.37.87
+ssh-copy-id -i .ssh/ciro.pub root@10.21.37.87
+ssh root@10.21.37.87
