@@ -42,7 +42,7 @@ Durante lo sviluppo e il refactoring del progetto Acubens, l'implementazione di 
 * **Schematizzazione Logica:** Di fronte a un'intricata serie di controlli condizionali per verificare l'appartenenza dei dispositivi a specifici pacchetti (con conseguenti rimozioni dal Database o aggiornamenti di file JSON), la scrittura del codice è stata temporaneamente sospesa a favore dell'analisi visiva.  
 * **Sviluppo guidato da Flowchart:** È stato redatto un diagramma di flusso dettagliato per mappare tutte le casistiche e i flussi (If/Else) del processo di *Controllo Pubblicazioni*. Questo approccio analitico ha fornito una mappa mentale chiara che ha permesso di sbloccare la fase di programmazione e implementare una soluzione pulita e funzionante.
 
-*\!\[Diagramma di flusso realizzato per la risoluzione logica del sistema di pubblicazione e gestione pacchetti\](FlowChartContrPub.jpg)*
+![Diagramma di flusso realizzato per la risoluzione logica del sistema di pubblicazione e gestione pacchetti](FlowChartContrPub.jpg)
 
 ## **5\. Quality Assurance e Automazione**
 
