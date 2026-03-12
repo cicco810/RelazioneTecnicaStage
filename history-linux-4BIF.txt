@@ -1,422 +1,719 @@
-cd Users/user
-ls
-cd Desktop/
-ls
-cd es1s/
-ls
-python esswitch.py 
-python3 esswitch.py 
-pip install pyinstaller
-lsb_release  a
-lsb_release  -a
-pipx install pyinstaller
-sudo apt update
-sudo apt install pyinstaller
-python3 esswitch.py 
-sudo apt install pipx -y
-pipx install getch
-
-pip install pyinstaller
-sudo apt install python3-pyinstaller
-sudo apt cache search pyinstaller
-sudo apt-cache search pyinstaller
-sudo apt install python3-command-runner 
-python3 esswitch.py 
-ssh-keygen
-ls
-echo "# convTempCF" >> README.md
-git init
-git add README.md
-git status
-git add esswitch.py 
-git add make_exe.bat 
-git status
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/cicco810/convTempCF.git
-git push -u origin main
-cd 
-ls
-cd .ssh/
-ls
-ll
-rm id_rsa*
-ls
-ln -svf ciro id_rsa
-bash
-exit
-cd /mnt/c/Users/user/Desktop/es1
-ls
-cd ..
-ls
-cd es1s/
-l
-ls
-git push
-git push --set-upstream origin main
-ln -sv /mnt/c/Users/user/Desktop/es1s/ stage
-ls
-cd stage
-ls
-git push --set-upstream origin main
-ssh-agent 
-ssh-add ciro 
-cd 
-ssh-add .ssh/id_rsa 
-ssh-add .ssh/ciro
-sudo ssh-add .ssh/ciro
-ssh-agent
-ssh-add -L
-ssh-add -l
-c .ssh/
-ls
-cd .ssh/
-ls
-ll
-cd ..
-cd stage
-ls
-history |grep ssh
-ssh-add /home/user_stage/.ssh/id_rsa 
-eval $(ssh-agent -s)
-ssh-add /home/user_stage/.ssh/id_rsa 
-cd /home/
-ls
-cd user_stage/
-ls
-cd .ssh/
-ls
-ll
-chmod 600 ciro
-
-ssh-add /home/user_stage/.ssh/id_rsa 
-cd 
-cd stage
-ls
-git push --set-upstream origin main
-ssh-add -l
-git push --set-upstream origin main
-ssh-agent -l
-ssh-add -l
-eval $(ssh-agent -s)
-cd stage
-ls
-git push
-git remote  show origin 
-cd .git
-ls
-vim config 
-cd ..
-git push
-cd 
-cd .ssh/
-ls
-ll
-rm id_ed25519*
-ls
-cd ..
-cd stage
-git push
-git push --set-upstream origin main
-exit
-cd stage
-ls
-git push --set-upstream origin main
-cd 
-cd .ssh/
-ls
-vim config 
-cd -
-git push --set-upstream origin main
-cd stage
-git push --set-upstream origin main
-history
-history |grep -i matteo
-git config --global user.email "carola.ciro7@gmail.com"
-git config --global user.name "Ciro"
-git status
-git restore esswitch.py 
-git status
-python3 esswitch.py 
-python3 eslin.py 
-cd..
-python3 eslin.py 
-try:
-python3 eslin.py 
-ls
-python3 eslin.py 
-python3 esswitch.py 
-git status
-python3 eslin.py 
-git status
-git add eslin.py 
-git status
-git commit -m creazione file cross-platform
-git commit -a  -m creazione file cross-platform
-git commit -a  -m "creazione file cross-platform"
-git push
-git pull
-cat README.md 
-cd stage
-python3 eslin.py 
-dir
-ls
-python3 eslin.py 
-git status
-git add
-git add eslin.py 
-git commit -m continuo file crossplatform
-git commit -m "continuo file crossplatform"
-git push
-python3 eslin.py 
-git add eslin.py 
-git commit -m  "fine file crossplatform"
-git push
-sudo apt update
-sudo apt install python3-pip python3-dev
-pip install pyinstaller
-sudo apt i
-sudo apt update
-sudo apt install pipx
-pipx ensurepath
-pipx install pyinstaller
-python -m pyinstaller --onefile eslin.py
-python3 -m pyinstaller --onefile eslin.py
-python3 -m PyInstaller --onefile eslin.py
-pyinstaller --onefile eslin.py
-eslin
-cd dist
-chmod +x eslin
-./eslin
-history 
-cd 
-ln -s /mnt/c/inetpub/wwwroot/ mensa
-cd mensa
-git init
-git status
-echo "# sitoMensa" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main 
-git remote add origin git@github.com:cicco810/sitoMensa.git
-git push -u origin main 
-git status
-git add Default.aspx 
-git status
-git push
-history 
-git commit -m "aggiunto file mensa"
-git push
-git status
-cd mensa
-git log --oneline 
-git status
-git diff
-git commit -am "corretto errori ortografia"
-git push
-git log --oneline
-git checkout 76ba51a
-git log
-git log --oneline
-git status
-git checkout main 
-git status 
-git log --onefile
-gitk --all
-gitk --all &
-history 
-history |grep gitk
-cal
-cald
-sudo apt-cache searc calendar
-sudo apt-cache search calendar
-sudo apt-cache calendar
-sudo apt install cal
-sudo apt install ncal
-cal
-cal 2026
-cal feb 2026
-cal feb 1
-cal feb -729
-man cal
-git diff
-git status 
-git commit -am "aggiunto linea gialla colore fimer e seperatori modificati con spazio"
-git push 
-git commit -am "altre correzioni ortografiche"
-git push 
-git commit -am "altre ancora correzioni ortografiche"
-git push 
-sudo apt install meld
-gitk --all &
-git difftool HEAD ... originale Default.aspx
-git difftool HEAD originale 
-git difftool HEAD...originale 
-git difftool HEAD originale 
-git d
-git commit -am "aggiunta emoji"
-git push 
-git checkout start 
-sudo apt install tidy
-history 
-git checkout main 
-git status
-git checkout main 
-cd 
-ln -s /mnt/c/Users/user/Desktop desktop 
-cd desktop
-ls
-tidy Ristora_Web_Info.mhtml
-tidy Ristora_Web_Info_originale.mhtml 
-sudo apt install openssh-server 
-sudo apt install docker
-sudo snap install docker
-docker 
-docker ps
-sudo snap install docker-composer
-docker composer -v
-history |grep mnt
-sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0
-cd .
-cd .ssh/
-ls
-cp ciro.pub /mnt/public/.
-sudo cp ciro.pub /mnt/public/.
-sudo systemctl start ssh.service 
-cd
-cd mensa
-
-git commit -am "v.Beta"
-git push
-git commit -am "v.Beta2"
-git push
-gitk --all
-git commit -am "v.diProduzione(tolto il commento alla parte di asp)"
-git push
-cp Default.aspx /mnt/public/.
-sudo cp Default.aspx /mnt/public/.
-~~cd
-cd
-ls 
-mkdir src
-cd src
-
-cd web
-ls
-git
-git checkout
-git checkout origin/docker-env 
-git switch -c stage
-gitk
-make config-doacker
-make config-docker 
-make start
-docker composer build
-docker compose build
-docker composer 
-sudo snap install docker-composer
-sudo snap install docker
-docker-compose build
-make start
-sudo apt install docker-compose
-docker composer
-sudo apt install docker-compose
-docker composer -V
-docker composer -v
-docker compose -v
-docker compose version
-sudo apt update && sudo apt uprade -y
-for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
-sudo apt-get update
-sudo apt-get install ca-certificates curl gnupg
-sudo install -m 0755 -d /etc/apt/keyrings
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
-sudo chmod a+r /etc/apt/keyrings/docker.gpg
-echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
-  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-sudo docker run hello-world
-docker compose version
-docker system prune
-docker compose build 
-mkdir -p ~/.docker/cli-plugins
-ARCH=$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/')
-VERSION=$(curl -s https://api.github.com/repos/docker/buildx/releases/latest | grep -Po '"tag_name": "\K.*?(?=")')
-curl -L "https://github.com/docker/buildx/releases/download/${VERSION}/buildx-${VERSION}.linux-${ARCH}" -o ~/.docker/cli-plugins/docker-buildx
-chmod +x ~/.docker/cli-plugins/docker-buildx
-docker buildx version
-docker compose version
-docker buildx version
-docker compose build 
-docker buildx use default
-docker compose build
-make start
-make test
-make db 
-cd src
-cd web/
-cd db/
-cd ddl/
-ls
-cat alter
-cat alter*
-ll
-mv alter.family.sql.txt alter.family.sql
-ll
-git status
-git add alter.family.sql 
-cd ../../docker/mysql/init/
-ls
-ln -s ../../../db/ddl/alter.family.sql 06-alter.family.sql
-git status
-git add 06-alter.family.sql 
-git status
-git commit -am "Introdotto alias per le famiglie"
-cd ../..
-cd ..
-make test
-git status
-make test
-make db
-cd src
-cd web
-make shell 
-cd src/web/
-git status
-git restore db/setup/view.v_firmware_shared.sql 
-gitk --al
-gitk --all
-make stop
-docker composer build
-docker compose build
-docker compose up -d
-docker stop
-make stop
-docker compose build --cache
-docker compose build --no-cache
-make start
-make test
-git status
-ls -al
-git status
-git restore db/setup/view.v_datasheet.sql
-git status
-cd view/
-git blame add_package.php
-cd web
-cd src/web/
-make start
-git status
-rm db/ddl/alter.family.sql.txt 
-git status
-git commit -m "Aggiunta alias al nome del pacchetto della famiglia" view/add_package.php 
-git push
-cd
-ip a
-ssh polaris 
-ssh-copy-id -f root@10.21.37.87
-ssh-copy-id root@10.21.37.87
-ssh-copy-id -i .ssh/ciro.pub root@10.21.37.87
-ssh root@10.21.37.87
+    1  cd Users/user
+    2  ls
+    3  cd Desktop/
+    4  ls
+    5  cd es1s/
+    6  ls
+    7  python esswitch.py 
+    8  python3 esswitch.py 
+    9  pip install pyinstaller
+   10  lsb_release  a
+   11  lsb_release  -a
+   12  pipx install pyinstaller
+   13  sudo apt update
+   14  sudo apt install pyinstaller
+   15  python3 esswitch.py 
+   16  sudo apt install pipx -y
+   17  pipx install getch
+   18  pip install pyinstaller
+   19  sudo apt install python3-pyinstaller
+   20  sudo apt cache search pyinstaller
+   21  sudo apt-cache search pyinstaller
+   22  sudo apt install python3-command-runner 
+   23  python3 esswitch.py 
+   24  ssh-keygen
+   25  ls
+   26  echo "# convTempCF" >> README.md
+   27  git init
+   28  git add README.md
+   29  git status
+   30  git add esswitch.py 
+   31  git add make_exe.bat 
+   32  git status
+   33  git commit -m "first commit"
+   34  git branch -M main
+   35  git remote add origin https://github.com/cicco810/convTempCF.git
+   36  git push -u origin main
+   37  cd 
+   38  ls
+   39  cd .ssh/
+   40  ls
+   41  ll
+   42  rm id_rsa*
+   43  ls
+   44  ln -svf ciro id_rsa
+   45  bash
+   46  exit
+   47  cd /mnt/c/Users/user/Desktop/es1
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd es1s/
+   52  l
+   53  ls
+   54  git push
+   55  git push --set-upstream origin main
+   56  ln -sv /mnt/c/Users/user/Desktop/es1s/ stage
+   57  ls
+   58  cd stage
+   59  ls
+   60  git push --set-upstream origin main
+   61  ssh-agent 
+   62  ssh-add ciro 
+   63  cd 
+   64  ssh-add .ssh/id_rsa 
+   65  ssh-add .ssh/ciro
+   66  sudo ssh-add .ssh/ciro
+   67  ssh-agent
+   68  ssh-add -L
+   69  ssh-add -l
+   70  c .ssh/
+   71  ls
+   72  cd .ssh/
+   73  ls
+   74  ll
+   75  cd ..
+   76  cd stage
+   77  ls
+   78  history |grep ssh
+   79  ssh-add /home/user_stage/.ssh/id_rsa 
+   80  eval $(ssh-agent -s)
+   81  ssh-add /home/user_stage/.ssh/id_rsa 
+   82  cd /home/
+   83  ls
+   84  cd user_stage/
+   85  ls
+   86  cd .ssh/
+   87  ls
+   88  ll
+   89  chmod 600 ciro
+   90  ssh-add /home/user_stage/.ssh/id_rsa 
+   91  cd 
+   92  cd stage
+   93  ls
+   94  git push --set-upstream origin main
+   95  ssh-add -l
+   96  git push --set-upstream origin main
+   97  ssh-agent -l
+   98  ssh-add -l
+   99  eval $(ssh-agent -s)
+  100  cd stage
+  101  ls
+  102  git push
+  103  git remote  show origin 
+  104  cd .git
+  105  ls
+  106  vim config 
+  107  cd ..
+  108  git push
+  109  cd 
+  110  cd .ssh/
+  111  ls
+  112  ll
+  113  rm id_ed25519*
+  114  ls
+  115  cd ..
+  116  cd stage
+  117  git push
+  118  git push --set-upstream origin main
+  119  exit
+  120  cd stage
+  121  ls
+  122  git push --set-upstream origin main
+  123  cd 
+  124  cd .ssh/
+  125  ls
+  126  vim config 
+  127  cd -
+  128  git push --set-upstream origin main
+  129  cd stage
+  130  git push --set-upstream origin main
+  131  history
+  132  history |grep -i matteo
+  133  git config --global user.email "carola.ciro7@gmail.com"
+  134  git config --global user.name "Ciro"
+  135  git status
+  136  git restore esswitch.py 
+  137  git status
+  138  python3 esswitch.py 
+  139  python3 eslin.py 
+  140  cd..
+  141  python3 eslin.py 
+  142  try:
+  143  python3 eslin.py 
+  144  ls
+  145  python3 eslin.py 
+  146  python3 esswitch.py 
+  147  git status
+  148  python3 eslin.py 
+  149  git status
+  150  git add eslin.py 
+  151  git status
+  152  git commit -m creazione file cross-platform
+  153  git commit -a  -m creazione file cross-platform
+  154  git commit -a  -m "creazione file cross-platform"
+  155  git push
+  156  git pull
+  157  cat README.md 
+  158  cd stage
+  159  python3 eslin.py 
+  160  dir
+  161  ls
+  162  python3 eslin.py 
+  163  git status
+  164  git add
+  165  git add eslin.py 
+  166  git commit -m continuo file crossplatform
+  167  git commit -m "continuo file crossplatform"
+  168  git push
+  169  python3 eslin.py 
+  170  git add eslin.py 
+  171  git commit -m  "fine file crossplatform"
+  172  git push
+  173  sudo apt update
+  174  sudo apt install python3-pip python3-dev
+  175  pip install pyinstaller
+  176  sudo apt i
+  177  sudo apt update
+  178  sudo apt install pipx
+  179  pipx ensurepath
+  180  pipx install pyinstaller
+  181  python -m pyinstaller --onefile eslin.py
+  182  python3 -m pyinstaller --onefile eslin.py
+  183  python3 -m PyInstaller --onefile eslin.py
+  184  pyinstaller --onefile eslin.py
+  185  eslin
+  186  cd dist
+  187  chmod +x eslin
+  188  ./eslin
+  189  history 
+  190  cd 
+  191  ln -s /mnt/c/inetpub/wwwroot/ mensa
+  192  cd mensa
+  193  git init
+  194  git status
+  195  echo "# sitoMensa" >> README.md
+  196  git init
+  197  git add README.md
+  198  git commit -m "first commit"
+  199  git branch -M main 
+  200  git remote add origin git@github.com:cicco810/sitoMensa.git
+  201  git push -u origin main 
+  202  git status
+  203  git add Default.aspx 
+  204  git status
+  205  git push
+  206  history 
+  207  git commit -m "aggiunto file mensa"
+  208  git push
+  209  git status
+  210  cd mensa
+  211  git log --oneline 
+  212  git status
+  213  git diff
+  214  git commit -am "corretto errori ortografia"
+  215  git push
+  216  git log --oneline
+  217  git checkout 76ba51a
+  218  git log
+  219  git log --oneline
+  220  git status
+  221  git checkout main 
+  222  git status 
+  223  git log --onefile
+  224  gitk --all
+  225  gitk --all &
+  226  history 
+  227  history |grep gitk
+  228  cal
+  229  cald
+  230  sudo apt-cache searc calendar
+  231  sudo apt-cache search calendar
+  232  sudo apt-cache calendar
+  233  sudo apt install cal
+  234  sudo apt install ncal
+  235  cal
+  236  cal 2026
+  237  cal feb 2026
+  238  cal feb 1
+  239  cal feb -729
+  240  man cal
+  241  git diff
+  242  git status 
+  243  git commit -am "aggiunto linea gialla colore fimer e seperatori modificati con spazio"
+  244  git push 
+  245  git commit -am "altre correzioni ortografiche"
+  246  git push 
+  247  git commit -am "altre ancora correzioni ortografiche"
+  248  git push 
+  249  sudo apt install meld
+  250  gitk --all &
+  251  git difftool HEAD ... originale Default.aspx
+  252  git difftool HEAD originale 
+  253  git difftool HEAD...originale 
+  254  git difftool HEAD originale 
+  255  git d
+  256  git commit -am "aggiunta emoji"
+  257  git push 
+  258  git checkout start 
+  259  sudo apt install tidy
+  260  history 
+  261  git checkout main 
+  262  git status
+  263  git checkout main 
+  264  cd 
+  265  ln -s /mnt/c/Users/user/Desktop desktop 
+  266  cd desktop
+  267  ls
+  268  tidy Ristora_Web_Info.mhtml
+  269  tidy Ristora_Web_Info_originale.mhtml 
+  270  sudo apt install openssh-server 
+  271  sudo apt install docker
+  272  sudo snap install docker
+  273  docker 
+  274  docker ps
+  275  sudo snap install docker-composer
+  276  docker composer -v
+  277  history |grep mnt
+  278  sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0
+  279  cd .
+  280  cd .ssh/
+  281  ls
+  282  cp ciro.pub /mnt/public/.
+  283  sudo cp ciro.pub /mnt/public/.
+  284  sudo systemctl start ssh.service 
+  285  cd
+  286  cd mensa
+  287  git commit -am "v.Beta"
+  288  git push
+  289  git commit -am "v.Beta2"
+  290  git push
+  291  gitk --all
+  292  git commit -am "v.diProduzione(tolto il commento alla parte di asp)"
+  293  git push
+  294  cp Default.aspx /mnt/public/.
+  295  sudo cp Default.aspx /mnt/public/.
+  296  ~~cd
+  297  cd
+  298  ls 
+  299  mkdir src
+  300  cd src
+  301  cd web
+  302  ls
+  303  git
+  304  git checkout
+  305  git checkout origin/docker-env 
+  306  git switch -c stage
+  307  gitk
+  308  make config-doacker
+  309  make config-docker 
+  310  make start
+  311  docker composer build
+  312  docker compose build
+  313  docker composer 
+  314  sudo snap install docker-composer
+  315  sudo snap install docker
+  316  docker-compose build
+  317  make start
+  318  sudo apt install docker-compose
+  319  docker composer
+  320  sudo apt install docker-compose
+  321  docker composer -V
+  322  docker composer -v
+  323  docker compose -v
+  324  docker compose version
+  325  sudo apt update && sudo apt uprade -y
+  326  for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
+  327  sudo apt-get update
+  328  sudo apt-get install ca-certificates curl gnupg
+  329  sudo install -m 0755 -d /etc/apt/keyrings
+  330  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+  331  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+  332  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  333    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  334  sudo apt-get update
+  335  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  336  sudo docker run hello-world
+  337  docker compose version
+  338  docker system prune
+  339  docker compose build 
+  340  mkdir -p ~/.docker/cli-plugins
+  341  ARCH=$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/')
+  342  VERSION=$(curl -s https://api.github.com/repos/docker/buildx/releases/latest | grep -Po '"tag_name": "\K.*?(?=")')
+  343  curl -L "https://github.com/docker/buildx/releases/download/${VERSION}/buildx-${VERSION}.linux-${ARCH}" -o ~/.docker/cli-plugins/docker-buildx
+  344  chmod +x ~/.docker/cli-plugins/docker-buildx
+  345  docker buildx version
+  346  docker compose version
+  347  docker buildx version
+  348  docker compose build 
+  349  docker buildx use default
+  350  docker compose build
+  351  make start
+  352  make test
+  353  make db 
+  354  cd src
+  355  cd web/
+  356  cd db/
+  357  cd ddl/
+  358  ls
+  359  cat alter
+  360  cat alter*
+  361  ll
+  362  mv alter.family.sql.txt alter.family.sql
+  363  ll
+  364  git status
+  365  git add alter.family.sql 
+  366  cd ../../docker/mysql/init/
+  367  ls
+  368  ln -s ../../../db/ddl/alter.family.sql 06-alter.family.sql
+  369  git status
+  370  git add 06-alter.family.sql 
+  371  git status
+  372  git commit -am "Introdotto alias per le famiglie"
+  373  cd ../..
+  374  cd ..
+  375  make test
+  376  git status
+  377  make test
+  378  make db
+  379  cd src
+  380  cd web
+  381  make shell 
+  382  cd src/web/
+  383  git status
+  384  git restore db/setup/view.v_firmware_shared.sql 
+  385  gitk --al
+  386  gitk --all
+  387  make stop
+  388  docker composer build
+  389  docker compose build
+  390  docker compose up -d
+  391  docker stop
+  392  make stop
+  393  docker compose build --cache
+  394  docker compose build --no-cache
+  395  make start
+  396  make test
+  397  git status
+  398  ls -al
+  399  git status
+  400  git restore db/setup/view.v_datasheet.sql
+  401  git status
+  402  cd view/
+  403  git blame add_package.php
+  404  cd web
+  405  cd src/web/
+  406  make start
+  407  git status
+  408  rm db/ddl/alter.family.sql.txt 
+  409  git status
+  410  git commit -m "Aggiunta alias al nome del pacchetto della famiglia" view/add_package.php 
+  411  git push
+  412  cd
+  413  ip a
+  414  ssh polaris 
+  415  ssh-copy-id -f root@10.21.37.87
+  416  ssh-copy-id root@10.21.37.87
+  417  ssh-copy-id -i .ssh/ciro.pub root@10.21.37.87
+  418  ssh root@10.21.37.87
+  419  history 
+  420  history > history.txt
+  421  echo "# RelazioneTecnicaStage" >> README.md
+  422  git init
+  423  git add README.md
+  424  git commit -m "first commit"
+  425  git branch -M main
+  426  git remote add origin git@github.com:cicco810/RelazioneTecnicaStage.git
+  427  git push -u origin main
+  428  git status
+  429  md RelazioneStage
+  430  mkdir RelazioneStage
+  431  cd RelazioneStage/
+  432  git remote add origin git@github.com:cicco810/RelazioneTecnicaStage.git
+  433  git branch -M main
+  434  git push -u origin main
+  435  git status
+  436  git commit -am "Aggiunta File"
+  437  git status
+  438  git add
+  439  git add Relazione\ Tecnica\ dell\'Esperienza\ di\ Tirocinio.md
+  440  git add Relazione\ Tecnica\ dell\'Esperienza\ di\ Tirocinio.md\:Zone.Identifier 
+  441  git add Relazione\ Tecnica\ dell\'Esperienza\ di\ Tirocinio.md\:Zone.Identifier history-linux-4BIF.txt
+  442  git commit -am "Aggiunta File"
+  443  git status
+  444  git push
+  445  cd
+  446  cd src/web/
+  447  git remote show url
+  448  git remote show origin 
+  449  git status 
+  450  git push origin 
+  451  git push --set-upstream origin stage
+  452  git status 
+  453  make start 
+  454  make db
+  455  ps -ef|grep ssh
+  456  history |grep mount
+  457  sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0
+  458  echo "La Password dell'utente stage e' 1234" > README.txt
+  459  cat README.txt 
+  460  echo "Comando x montare la cartella di rete del tutor" >> README.txt
+  461  echo "sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0" >> README.txt
+  462  cat README.txt 
+  463  history
+  464  mysql -u Acubens
+  465  history
+  466  make db 
+  467  make shell
+  468  cd src/web/
+  469  make shell 
+  470  git status
+  471  git commit -m "Corretto errore su numero dei file" doc/documentazione/50_tib_header.png
+  472  git push
+  473  cd docker/mysql/init/
+  474  del 06-alter.family.sql 
+  475  ls
+  476  del 06-alter.family.sql 
+  477  rm 06-alter.family.sql 
+  478  ls
+  479  docker compose down -v
+  480  docker compose up -d
+  481  make start
+  482  cd..
+  483  cd ..
+  484  make start
+  485  cd
+  486  copy
+  487  move 
+  488  move?
+  489  mv?
+  490  cd
+  491  mv ../../mnt/public/genera.sh src/web/doc/documentazione/ 
+  492  copy ../../mnt/public/genera.sh src/web/doc/documentazione/ 
+  493  cp ../../mnt/public/genera.sh src/web/doc/documentazione/ 
+  494  cd src
+  495  cd web
+  496  grep Requisiti * -r
+  497  grep ITA * -r
+  498  make test
+  499  make shell
+  500  sudo apt update
+  501  sudo apt install htmldoc
+  502  cd doc/documentazione/
+  503  ./genera.sh
+  504  vim genera.sh 
+  505  ./genera.sh
+  506  git status
+  507  git commit -am "modifica documentazione e correzione errori ortografici"
+  508  git push
+  509  git status
+  510  make db
+  511  start db
+  512  history
+  513  start mysql
+  514  docker-compose build
+  515  start db
+  516  make start
+  517  make db
+  518  make mysql
+  519  mysql -u root -p
+  520  cd ..
+  521  make db
+  522  git status
+  523  git commit -am "Aggiunto checkbox che filtra i dati in base al tipo di update"
+  524  git push
+  525  cd desktop
+  526  tidy Make_Ben.html 
+  527  cd ..
+  528  cd web
+  529  lsc
+  530  dir
+  531  cd src
+  532  cd web
+  533  gitk add_firmware.php
+  534  cd view/
+  535  gitk add_firmware.php
+  536  gitk --all
+  537  git difftool
+  538  cd src
+  539  cd web/
+  540  git status
+  541  git commit -am "checkbox che da std ti permette di visualizzare solo gli orion, ma con checkbox spuntata permette di visuallizzare anche i legacy"
+  542  git push 
+  543  make test
+  544  make test-puppeteer 
+  545  sudo apt install bats
+  546  make test-puppeteer 
+  547  git status
+  548  git commit -am "tolto un underscore al salvataggio del nome del package"
+  549  git push
+  550  history
+  551  git status
+  552  git log
+  553  uit
+  554  git checkout 44cbed18fb7b7def8b4a2e33557980a4d602bc6c -- add_package.php
+  555  git checkout a6f836a4722f57678e6eb95c13a52c4c3567ad30 -- add_package.php
+  556  cd doc/documentazione/
+  557  cd ../..
+  558  git log --oneline
+  559  git checkout 44cbed1
+  560  git status
+  561  git status 397c2a4
+  562  git checkout
+  563  git status
+  564  git switch main
+  565  git switch master
+  566  git status
+  567  git log --oneline
+  568  git switch stage
+  569  git log --oneline
+  570  git status
+  571  git commit -am "Ridimensionata immagine docum"
+  572  git push
+  573  history
+  574  sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0
+  575  cd
+  576  cd ../..
+  577  ls
+  578  cd ..
+  579  ls
+  580  cd /mnt/public/
+  581  touch pippo
+  582  sudo touch pippo
+  583  ll
+  584  cp /mnt/c/Users/user/Pictures/Screenshots/Screenshot\ 2026-03-11\ 13* .
+  585  sudo cp /mnt/c/Users/user/Pictures/Screenshots/Screenshot\ 2026-03-11\ 13* .
+  586  cd
+  587  cd web
+  588  cd src/web/
+  589  git status 
+  590  rm doc/documentazione/50_tib_header.png:Zone.Identifier
+  591  git status 
+  592  git diff
+  593  git fetch 
+  594  q
+  595  git fetch
+  596  gitk 
+  597  git fetch
+  598  gitk --all
+  599  git merge origin/stage 
+  600  gitk --all
+  601  make test
+  602  gitk --all
+  603  curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+  604  sudo apt install -y nodejs
+  605  node --version
+  606  npm i puppeteer
+  607  npx puppeteer browsers install chrome
+  608  cd src/web/test/puppeteer/
+  609  vim README.md 
+  610  cd src/web/
+  611  make test
+  612  make stop
+  613  make start
+  614  make test
+  615  make test-puppeteer 
+  616  cd test/
+  617  ls
+  618  cd puppeteer/
+  619  ls
+  620  cat README.md 
+  621  npm i puppeteer
+  622  cd ..
+  623  make test-puppeteer 
+  624  npx puppeteer browsers list
+  625  sudo apt-get install -y libgbm-dev gconf-service libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxss1 libxtst6 libappindicator1 libnss3 libasound2 libatk1.0-0 libc6 ca-certificates fonts-liberation lsb-release xdg-utils wget
+  626  sudo apt install jq
+  627  sudo apt install jq curl
+  628  make test-puppeteer 
+  629  npm update
+  630  cd test/
+  631  cd puppeteer/
+  632  ls
+  633  bats login.bats 
+  634  sudo apt update
+  635  sudo apt install -y libnspr4 libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxfixes3 libxrandr2 libgbm1 libasound2
+  636  npx puppeteer browsers install chrome --install-deps
+  637  bats login.bats 
+  638  sudo apt update;
+  639  sudo apt install -y libnspr4 libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxext6 libxfixes3 libxrandr2 libgbm1 libasound2
+  640  sudo apt update && sudo apt install -y   libnspr4   libnss3   libatk1.0-0t64   libatk-bridge2.0-0t64   libcups2t64   libdrm2   libxkbcommon0   libxcomposite1   libxdamage1   libxext6   libxfixes3   libxrandr2   libgbm1   libasound2t64
+  641  bats login.bats 
+  642  cd ..
+  643  docker composer down -v
+  644  docker compose down -v
+  645  docker compose build
+  646  docker compose up -d
+  647  make test-puppeteer 
+  648  make test
+  649  git status
+  650  git commit -am "aggiunta alias al checkbox"
+  651  git push
+  652  docker compose build
+  653  cd src/web/
+  654  docker compose build
+  655  start mysql
+  656  make start
+  657  make db
+  658  gitk
+  659  git fetch
+  660  git merge origin/stage 
+  661  gitk
+  662  make db
+  663  make test
+  664  history |grep mount
+  665  sudo mount -t cifs //10.21.39.232/Public /mnt/public -o guest,vers=3.0
+  666  history |grep pictures
+  667  history |grep Pictures
+  668  cd
+  669  cd mnt
+  670  cd ../mnt
+  671  ls
+  672  cd ../../mnt
+  673  cd public/
+  674  sudo cp "/mnt/c/Users/user/Pictures/Screenshots/Screenshot 2026-03-12"* .
+  675  cd
+  676  cd src/web/
+  677  git status 
+  678  git commit -am "Aggiunta colonna alias"
+  679  git push 
+  680  make test
+  681  cd control/
+  682  ls
+  683  vim change_ben_debug.php 
+  684  git blame change_ben_debug.php
+  685  cd ..
+  686  grep change_ben_debug * -r
+  687  cd control/
+  688  ls
+  689  cd ..
+  690  cd model/
+  691  ls
+  692  grep is_publ * 
+  693  vim package.php 
+  694  make test
+  695  cd..
+  696  cd ..
+  697  make test
+  698  make db
+  699  make test
+  700  git status
+  701  git commit -am "Aggiunta pulsante di debug"
+  702  git push 
+  703  ./doc/documentazione/genera.sh 
+  704  cd doc
+  705  cd documentazione/
+  706  ./genera.sh 
+  707  git status 
+  708  git diff 35_bundle_debug.md 
+  709  vim 35_bundle_debug.md 
+  710  sudo apt install dos2unix
+  711  dos2unix 35_bundle_debug.md 
+  712  ./genera.sh 
+  713  vim 35_bundle_debug.md 
+  714  ./genera.sh 
+  715  git status
+  716  git commit -am "Aggiornamento documentazione debug"
+  717  git push 
+  718  cd 
+  719  history > RelazioneStage/history-linux-4BIF.txt 
